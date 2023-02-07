@@ -11,7 +11,7 @@ Project Organization
     │   ├── processed      <- The final, canonical data sets for modeling.
     │   └── raw            <- The original, immutable data dump.
     │
-    ├── docs               <- A default Sphinx project; see sphinx-doc.org for details
+    ├── docs               <- Data dictionaries, manuals, and all other explanatory materials.
     │
     ├── models             <- Trained and serialized models, model predictions, or model summaries
     │
@@ -20,7 +20,6 @@ Project Organization
     │                         `1.0-jqp-initial-data-exploration`.
     ├── pipeline           <- Final serialized pipeline,
     │
-    ├── references         <- Data dictionaries, manuals, and all other explanatory materials.
     │
     ├── reports            <- Generated analysis as HTML, PDF, LaTeX, etc.
     │   └── figures        <- Generated graphics and figures to be used in reporting
